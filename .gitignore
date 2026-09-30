@@ -1,0 +1,5 @@
+node_modules/
+out/
+# CV: nel repository solo quello d'esempio, gli altri restano locali.
+cv/*
+!cv/esempio.ts
